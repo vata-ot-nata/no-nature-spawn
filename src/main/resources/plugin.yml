@@ -1,0 +1,4 @@
+name: Nospawn
+version: '${project.version}'
+main: vanya.nospawn.Nospawn
+api-version: 1.16

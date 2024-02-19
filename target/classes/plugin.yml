@@ -1,0 +1,4 @@
+name: Nospawn
+version: '1.0-SNAPSHOT'
+main: vanya.nospawn.Nospawn
+api-version: 1.16
